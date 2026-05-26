@@ -1,4 +1,5 @@
 #botando bglh de save pra nao perdee o progresso d joguin(da uma nota extra prof, foi impossivel aprender isso aq mas consegui ;(   )
+from rich import print
 import time
 import random
 import json
